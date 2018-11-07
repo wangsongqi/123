@@ -1,0 +1,4 @@
+const var 和let区别
+const中相当于java中final定义 必须初始化否则报错
+var如果未初始化则返回undefined
+let在方法体中定义不会改变外部变量的值
